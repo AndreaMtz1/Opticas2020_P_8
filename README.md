@@ -1,1 +1,3 @@
-# Opticas2020_P_8
+# uii_actividad1
+Plantilla básica en PHP
+#Ojo tus archivos cambiaron de extencion .html a .php
